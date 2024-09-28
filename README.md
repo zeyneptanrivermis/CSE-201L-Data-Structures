@@ -1,2 +1,2 @@
-# CSE-201l-Data-Structures
+# CSE-201L-Data-Structures
  Assignments from Data Structures
