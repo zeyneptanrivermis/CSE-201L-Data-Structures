@@ -1,4 +1,4 @@
-#Traffic Control System
+# Traffic Control System
 Description
 The Traffic Control System simulates a city grid of traffic lights, allowing users to monitor the status of traffic lights and identify intersections with malfunctions. The system provides functionality to count malfunctioning lights, find rows or columns with the most malfunctions, and identify crucial intersections based on the number of malfunctioning neighbors.
 
